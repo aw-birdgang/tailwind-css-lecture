@@ -2,6 +2,7 @@
 # basic environment setup.
 ```bash
 
+https://tailwindcss.com/docs/place-self
 
 ```
 
